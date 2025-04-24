@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+.site-title {
+    color: #e56c19;
+    font-weight: 900;
+}
+
+nav a {
+    display: inline-block;
+    padding: 0 1rem 0 1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #777;
+}
+  
+nav a:hover {
+    color: black;
+}
