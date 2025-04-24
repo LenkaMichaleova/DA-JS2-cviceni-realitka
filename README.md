@@ -1,6 +1,7 @@
 "# DA-JS2-cviceni-realitka" 
 
 REALITKA
+
 Vytvoříme jednoduchý web s několika stránkami zobrazující inzeráty na nemovitosti.
 
 1. Na adrese https://apps.kodim.cz/daweb/trening-api/apis/realitka/dum01 najdete API endpoint, který vrací informace o jedné nemovitosti ke koupi. Prohlédněte si dobře strukturu dat, která API vrací.
